@@ -13,10 +13,9 @@ Code will be released soon...
 Contact: tingzhao.yu@nlpr.ia.ac.cn; yutingzhao2013@ia.ac.cn
 
 
-# NetArchitecture
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/NetArchitecture.jpg)
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/comparison.jpg)
 
 # Results
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/parameter.jpg)
-![Alt text](https://github.com/Tsingzao/motion_image/blob/master/Results/visualization.jpg)
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_penn.png)
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png)
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/penn_confusion.png)
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/odar_new.png)
