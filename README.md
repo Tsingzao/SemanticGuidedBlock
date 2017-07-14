@@ -21,7 +21,7 @@ Feature Map visualization on Penn
 
 Visualization of Pool Feature to t-SNE 
 
-![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png?imageView/2/w/619/q/90)
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png?imageView/2/w/10/q/10)
 
 Confusion Matrix on Penn 
 ![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/penn_confusion.png)
