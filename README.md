@@ -15,7 +15,15 @@ Contact: tingzhao.yu@nlpr.ia.ac.cn; yutingzhao2013@ia.ac.cn
 
 
 # Results
+
+Feature Map visualization on Penn 
 ![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_penn.png)
-![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png)
+
+Visualization of Pool Feature to t-SNE 
+![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/visual_pool.png=100x100)
+
+Confusion Matrix on Penn 
 ![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/penn_confusion.png)
+
+Each Class Classification Accuracy on ODAR 
 ![Alt text](https://github.com/Tsingzao/SemanticGuidedBlock/blob/master/result/odar_new.png)
