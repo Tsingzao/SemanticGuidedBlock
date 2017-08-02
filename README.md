@@ -2,9 +2,11 @@
 
 This is the code for "Semantic Guided Network for Open Domain Action Recognition".
 
-by Tingzhao Yu, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan
+by Tingzhao Yu, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan
 
 The 1st Open Domain Action Recognition Challenge at CVPR2017.
+
+We ranked the second place!
 
 
 Code will be released soon...
