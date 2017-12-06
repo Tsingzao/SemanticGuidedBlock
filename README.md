@@ -6,10 +6,11 @@ by Tingzhao Yu, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan
 
 The 1st Open Domain Action Recognition Challenge at CVPR2017.
 
-We ranked the second place!
 
 
 Code will be released soon...
+
+Pretrained Model can be downloaded from https://pan.baidu.com/s/1mhNS3W0
 
 
 Contact: tingzhao.yu@nlpr.ia.ac.cn; yutingzhao2013@ia.ac.cn
